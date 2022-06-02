@@ -1,10 +1,11 @@
 {
-    "name": "未命名",
+    "name": "test 1",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-sonar": "github:Microsoft/pxt-sonar#v0.0.5"
     },
     "files": [
         "main.blocks",
